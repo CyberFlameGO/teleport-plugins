@@ -33,9 +33,8 @@ require (
 	github.com/sethvargo/go-limiter v0.7.2
 	github.com/sirupsen/logrus v1.8.1
 	github.com/stretchr/testify v1.7.0
-	golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd
-	golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9
-	golang.org/x/tools v0.0.0-20210106214847-113979e3529a // indirect
+	golang.org/x/net v0.7.0
+	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
 	google.golang.org/genproto v0.0.0-20210223151946-22b48be4551b // indirect
 	google.golang.org/grpc v1.45.0
 	google.golang.org/protobuf v1.27.1
