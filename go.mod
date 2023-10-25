@@ -14,7 +14,7 @@ require (
 	github.com/gogo/protobuf v1.3.2
 	github.com/google/btree v1.0.1 // indirect
 	github.com/google/go-querystring v1.0.0
-	github.com/google/uuid v1.2.0
+	github.com/google/uuid v1.3.0
 	github.com/gravitational/kingpin v2.1.11-0.20190130013101-742f2714c145+incompatible
 	github.com/gravitational/teleport/api v0.0.0-20220421001737-4d9708f8536f // tag v9.1.0
 	github.com/gravitational/trace v1.1.17
@@ -32,13 +32,11 @@ require (
 	github.com/peterbourgon/diskv/v3 v3.0.0
 	github.com/sethvargo/go-limiter v0.7.2
 	github.com/sirupsen/logrus v1.8.1
-	github.com/stretchr/testify v1.7.0
-	golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd
-	golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9
-	golang.org/x/tools v0.0.0-20210106214847-113979e3529a // indirect
-	google.golang.org/genproto v0.0.0-20210223151946-22b48be4551b // indirect
-	google.golang.org/grpc v1.45.0
-	google.golang.org/protobuf v1.27.1
+	github.com/stretchr/testify v1.8.3
+	golang.org/x/net v0.9.0
+	golang.org/x/sync v0.1.0
+	google.golang.org/grpc v1.56.3
+	google.golang.org/protobuf v1.30.0
 	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
 	gopkg.in/mail.v2 v2.3.1
 	k8s.io/apimachinery v0.20.4
